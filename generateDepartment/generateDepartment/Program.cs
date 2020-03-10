@@ -18,7 +18,7 @@ namespace generateDepartment
             var scopes = new string[] { "https://graph.microsoft.com/.default" };
             var confidentialClient = ConfidentialClientApplicationBuilder
           .Create(cId)
-          .WithAuthority($"https://login.microsoftonline.com/murphyoil.onmicrosoft.com/v2.0")
+          .WithAuthority($"https://login.microsoftonline.com/XXXXXX.onmicrosoft.com/v2.0")
           .WithClientSecret(cSecret)
           .Build();
 
@@ -44,7 +44,7 @@ namespace generateDepartment
         static async System.Threading.Tasks.Task Main(string[] args)
         {
 
-            GraphServiceClient graphServiceClient1 = connectToGraphAPI("murphyoil.onmicrosoft.com", "e528d78a-7851-4202-9473-e89542531c19", "H1H[t6rp78sB=v/dUvvicbCDrvyrtHk]");
+            GraphServiceClient graphServiceClient1 = connectToGraphAPI("XXXX.onmicrosoft.com", "XXXX", "XXXXX");
             var usersForDep = await graphServiceClient1.Users.Request().Select(e => new
               {
                     e.DisplayName,
