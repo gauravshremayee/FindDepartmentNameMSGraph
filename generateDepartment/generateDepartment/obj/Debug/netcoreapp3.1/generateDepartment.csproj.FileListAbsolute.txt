@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\generateDepartment\generateDepartment\bin\Debug\netcoreapp3.1\generateDepartment.exe
+C:\Users\HP\source\repos\generateDepartment\generateDepartment\bin\Debug\netcoreapp3.1\generateDepartment.deps.json
+C:\Users\HP\source\repos\generateDepartment\generateDepartment\bin\Debug\netcoreapp3.1\generateDepartment.runtimeconfig.json
+C:\Users\HP\source\repos\generateDepartment\generateDepartment\bin\Debug\netcoreapp3.1\generateDepartment.runtimeconfig.dev.json
+C:\Users\HP\source\repos\generateDepartment\generateDepartment\bin\Debug\netcoreapp3.1\generateDepartment.dll
+C:\Users\HP\source\repos\generateDepartment\generateDepartment\bin\Debug\netcoreapp3.1\generateDepartment.pdb
+C:\Users\HP\source\repos\generateDepartment\generateDepartment\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+C:\Users\HP\source\repos\generateDepartment\generateDepartment\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+C:\Users\HP\source\repos\generateDepartment\generateDepartment\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\HP\source\repos\generateDepartment\generateDepartment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\generateDepartment\generateDepartment\obj\Debug\netcoreapp3.1\generateDepartment.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\generateDepartment\generateDepartment\obj\Debug\netcoreapp3.1\generateDepartment.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\generateDepartment\generateDepartment\obj\Debug\netcoreapp3.1\generateDepartment.AssemblyInfo.cs
+C:\Users\HP\source\repos\generateDepartment\generateDepartment\obj\Debug\netcoreapp3.1\generateDepartment.csproj.CopyComplete
+C:\Users\HP\source\repos\generateDepartment\generateDepartment\obj\Debug\netcoreapp3.1\generateDepartment.dll
+C:\Users\HP\source\repos\generateDepartment\generateDepartment\obj\Debug\netcoreapp3.1\generateDepartment.pdb
+C:\Users\HP\source\repos\generateDepartment\generateDepartment\obj\Debug\netcoreapp3.1\generateDepartment.genruntimeconfig.cache
